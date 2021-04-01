@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(73, 23, 109);
+}
+
+p{
+    background-color: salmon;
+    padding-bottom: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+}

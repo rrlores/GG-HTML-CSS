@@ -1,0 +1,38 @@
+/* em HTML id em CSS é #
+em HTML class em CSS é . */
+
+body{
+    background-color: rgb(144, 240, 243);
+}
+
+h1{
+    color:  rgb(35, 72, 105);
+}
+
+#principal{
+
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+
+h2{
+    color:  rgb(54, 113, 168);
+}
+
+.basico{
+    color: tomato;
+}
+
+.intermediario{
+    color: violet;
+}
+
+.avancado{
+    color: yellow;
+}
+
+.destaque{
+    background-color: yellow
+}
+
